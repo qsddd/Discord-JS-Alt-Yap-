@@ -1,1 +1,1 @@
-# Discord.JS-Alt-Yap-
+# discord.js-MigBot
