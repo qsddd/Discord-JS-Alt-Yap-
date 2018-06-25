@@ -1,5 +1,5 @@
 // Creator By: Cem#3658
-// Discord: discord.gg/Nk2H3H3
+// Discord: discord.gg/Nk2H3H0
 
 // Başlangıç
 
